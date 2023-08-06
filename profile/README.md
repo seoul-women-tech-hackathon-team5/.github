@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://i.pinimg.com/564x/56/3d/82/563d82876daaa6c957d50e21a57d4c72.jpg" width="120px" height="15%"/>
+      <img src="https://github.com/seoul-women-tech-hackathon-team5/.github/assets/97885933/879fc928-dec6-4f79-a374-ab24fc419efb" width="120px" height="15%"/>
     </td>
     <td>
       <img src="https://github.com/seoul-women-tech-hackathon-team5/.github/assets/97885933/3d410ad2-e257-41cc-b274-d92c5926747b" width="120px" height="15%"/>
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="">
+      <a href="starbfl212@naver.com">
       김규리
       </a>
     </td>
