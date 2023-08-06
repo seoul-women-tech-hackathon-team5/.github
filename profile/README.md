@@ -76,7 +76,7 @@
     </tr>
     <tr>
         <th>배포</th>
-        <td><a href="https://chu-card-client.vercel.app">오자오자</a></td>
+        <td><a href="https://ozaoza.netlify.app/">오자오자</a></td>
     </tr>
     <tr>
         <th>디자인</th>
