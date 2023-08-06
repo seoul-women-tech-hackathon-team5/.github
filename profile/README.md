@@ -19,7 +19,7 @@
       <img src="https://i.pinimg.com/564x/56/3d/82/563d82876daaa6c957d50e21a57d4c72.jpg" width="120px" height="15%"/>
     </td>
     <td>
-      <img src="https://i.pinimg.com/564x/56/3d/82/563d82876daaa6c957d50e21a57d4c72.jpg" width="120px" height="15%"/>
+      <img src="https://github.com/seoul-women-tech-hackathon-team5/.github/assets/97885933/3d410ad2-e257-41cc-b274-d92c5926747b" width="120px" height="15%"/>
     </td>
     <td>
       <img src="https://avatars.githubusercontent.com/u/97885933?v=4" width="120px" height="15%"/>
@@ -41,7 +41,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="">
+      <a href="yungeunyang@naver.com">
       이윤수
       </a>
     </td>
